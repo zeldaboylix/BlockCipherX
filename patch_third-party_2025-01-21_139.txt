@@ -1,0 +1,1 @@
+Patch third-party authentication for client (minor) - Implemented a new feature to enhance third-party authentication.
