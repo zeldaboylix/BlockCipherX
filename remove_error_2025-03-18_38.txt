@@ -1,0 +1,1 @@
+Remove error handling for response (advanced) - Implemented a new feature to enhance error handling.
