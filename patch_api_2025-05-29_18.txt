@@ -1,0 +1,1 @@
+Patch API response for server (easy) - Implemented a new feature to enhance API response.
