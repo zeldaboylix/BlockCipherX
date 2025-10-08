@@ -1,0 +1,1 @@
+Support API response for error (easy) - Implemented a new feature to enhance API response.
