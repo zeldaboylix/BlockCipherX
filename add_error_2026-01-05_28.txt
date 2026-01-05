@@ -1,0 +1,1 @@
+Add error handling for branch (major) - Implemented a new feature to enhance error handling.
