@@ -1,18 +1,15 @@
-# 🚀 BlockForge
+# BlockCipherX
 
-BlockForge is a minimal educational blockchain built in Python.
+BlockCipherX is a lightweight cryptography toolkit written in Python.
 
-## 🔥 Features
+## Features
 
-- ECDSA wallet (SECP256k1)
-- Signed transactions
-- Proof-of-Work mining
-- Blockchain validation
-- Miner rewards
+- AES-256 encryption (CFB mode)
+- RSA key generation and encryption
+- Digital signatures
+- Secure password hashing (PBKDF2)
 
-## 🚀 Installation
+## Installation
 
 ```bash
-git clone https://github.com/zeldaboylix/blockforge.git
-cd blockforge
 pip install -r requirements.txt
